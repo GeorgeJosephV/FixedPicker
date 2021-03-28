@@ -1,6 +1,12 @@
 # FixedPicker
 Custom React Native Picker Component.
 
+
+How to use it ?
+=> 1. Add this FixedPicker.js file in your project src or create a new js file in and copy this code into it. 
+2. Replace Picker with FixedPicker wherever used.
+
+
 What is it?
 => This Custom Picker Component is an extension of React Native Picker component.
 
